@@ -1,0 +1,38 @@
+Internal node
+Is it bigger than a breadbox?
+Internal node
+Does it have a roof?
+Internal node
+Does it have wheels?
+Leaf
+car
+Leaf
+a house
+Internal node
+Does it have wheels?
+Leaf
+a car
+Internal node
+does it float on water?
+Leaf
+a boat
+Internal node
+is it alive?
+Leaf
+an elephant
+Leaf
+television
+Internal node
+Is it sweet?
+Leaf
+a pie
+Internal node
+can you write with it?
+Leaf
+a pencil
+Internal node
+does it have a screen?
+Leaf
+ipad
+Leaf
+a mouse
